@@ -35,7 +35,9 @@ body {
   .square:focus {
 	outline: none;
   }
-  
+  .move-list-item-selected {
+		font-weight: bold;
+	}
   .kbd-navigation .square:focus {
 	background: #ddd;
   }
